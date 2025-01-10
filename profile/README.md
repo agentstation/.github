@@ -20,6 +20,12 @@ Leverage our example projects to quickly get started building agentic applicatio
 - [Puppeteer Application](https://github.com/agentstation/quickstarts/tree/master/puppeteer) 
 - [Playwright Application](https://github.com/agentstation/quickstarts/tree/master/playwright)
 
+<h4 align="center">Our Puppeteer application demo in action:</h4>
+<div align="center">
+  <img src="https://github.com/agentstation/.github/blob/master/profile/puppeteer-demo.gif" width="600">
+</div>
+</h3>
+
 ## Repositories
 We're commited to maintaining all our open source projects as we use them in production. Contributions are welcome!
 - [uuidkey](https://github.com/agentstation/uuidkey): Encode UUIDs to a readable Key format via the Base32-Crockford codec.
