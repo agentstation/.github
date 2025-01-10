@@ -20,7 +20,7 @@ Leverage our example projects to quickly get started building agentic applicatio
 - [Puppeteer Application](https://github.com/agentstation/quickstarts/tree/master/puppeteer) 
 - [Playwright Application](https://github.com/agentstation/quickstarts/tree/master/playwright)
 
-<h4 align="center">Our Puppeteer application demo in action:</h4>
+<h4 align="center">Our Puppeteer quickstart project in action:</h4>
 <div align="center">
   <img src="https://github.com/agentstation/.github/blob/master/profile/puppeteer-demo.gif" width="600">
 </div>
